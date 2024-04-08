@@ -1,8 +1,6 @@
 <p align="center">
 <h1 align="center"><b>NoSQLMap</b></h1>
 
----
-
 ### Summary
 
 A little silly parody or a simple silly script with a collection of common NoSQL injection payloads to _try_ to make your day easier.
